@@ -16,7 +16,7 @@ TensorFlow中每一个Tensor定义都是在图中完成的,但是并没有进行
 
 #### OP
 
-![1](https://github.com/XAssets559/Deep-Learning/blob/master/TensorFlow/Picture/1.jpg)
+![1](https://github.com/XAssets559/Deep_Learning/blob/master/TensorFlow/Picture/1.jpg)
 
 操作函数									&												操作对象
 
@@ -118,7 +118,7 @@ shape：形状（阶）
 
 #### 张量的类型
 
-![2](https://github.com/XAssets559/Deep-Learning/blob/master/TensorFlow/Picture/2.jpg)
+![2](https://github.com/XAssets559/Deep_Learning/blob/master/TensorFlow/Picture/2.jpg)
 
 如果不指定类型，默认	tf.float32
 
